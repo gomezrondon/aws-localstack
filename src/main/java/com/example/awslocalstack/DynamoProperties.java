@@ -2,7 +2,6 @@ package com.example.awslocalstack;
 
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
-
 import java.net.URI;
 
 @ConfigurationProperties("dynamo")
